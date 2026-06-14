@@ -263,9 +263,9 @@ Mukesh M
 
 Aspiring Python Developer | Django Developer | Full-Stack Web Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/mukeshm16
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/mukeshm16
 
 ---
 
